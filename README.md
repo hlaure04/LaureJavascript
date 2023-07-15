@@ -1,7 +1,7 @@
 # LaureJavascript
 https://github.com/hlaure04/LaureJavascript.git
 
-// create a variable to hold your NFT's
+// create a variable to hold your NFT's 
 const NFTs = [];
 
 // this function will take in some values as parameters, create an
